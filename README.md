@@ -24,8 +24,8 @@ $ yarn add jeffacode-pages
 
 ```javascript
 const jeffacodePages = require('jeffacode-pages')
-const result = jeffacodePages('zce')
-// result => 'zce@zce.me'
+const result = jeffacodePages('jeff')
+// result => 'jeff@jeff.me'
 ```
 
 ## API
@@ -45,7 +45,7 @@ const result = jeffacodePages('zce')
 
 - Type: `string`
 - Details: host string
-- Default: `'zce.me'`
+- Default: `'jeff.me'`
 
 ## Contributing
 
